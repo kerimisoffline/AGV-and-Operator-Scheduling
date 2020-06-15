@@ -1,0 +1,155 @@
+C:\Users\Kerim\source\repos\Operator_And_AGV\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\source\repos\Operator_And_AGV\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\source\repos\Operator_And_AGV\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\source\repos\Operator_And_AGV\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\source\repos\Operator_And_AGV\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\source\repos\Operator_And_AGV\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\source\repos\Operator_And_AGV\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\source\repos\Operator_And_AGV\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\source\repos\Operator_And_AGV\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\Operator_And_AGV\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\Operator_And_AGV\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 2.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 3.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 4.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 5.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 6.0\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\son version\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\version 27 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe.config
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\bin\Debug\Operator_And_AGV.pdb
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form1.resources
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form2.resources
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Form3.resources
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormA.resources
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormB.resources
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.FormHat.resources
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.Properties.Resources.resources
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.exe
+C:\Users\Kerim\Desktop\bitirme projesi\version 30 Mayıs\agv_scheduling\AGV_OPERATOR\obj\Debug\Operator_And_AGV.pdb
